@@ -1,0 +1,6 @@
+body { font-family: Arial; background-color: #121212; color: white; text-align: center; padding: 30px; }
+h1 { color: #00ffcc; }
+.card { background: #1e1e1e; border-radius: 12px; padding: 25px; width: 350px; margin: 15px auto; box-shadow: 0 0 10px #00ffcc; }
+button { padding: 10px 20px; border: none; border-radius: 10px; font-size: 16px; margin: 5px; cursor: pointer; }
+.on { background-color: #00ff99; }
+.off { background-color: #ff4444; }
